@@ -1,15 +1,15 @@
 /*
  * @lc app=leetcode.cn id=5 lang=cpp
  *
- * [5] 最长回文子�?
+ * [5] 最长回文子�?
  */
-
+/*
 #include <stdio.h>
 #include <string>
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-
+*/
 class Solution {
 public:
     Solution(){
@@ -51,7 +51,7 @@ private:
     string resault;
     string maxresault;
 };
-
+/*
 int main(int args,char* argv[])
 {
     Solution *A = new Solution;
@@ -61,4 +61,4 @@ int main(int args,char* argv[])
     cout<<"res = "<<res;
     return 0;
 }
-
+*/
